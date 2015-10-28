@@ -1,7 +1,7 @@
-Kentucky-Symbols
+Restaurant Violation Symbols
 ================
 
-Symbols used for Kentucky MapShop!
+Symbols for Restaurant Violations
 
 This repo contains an Adobe Illustrator File, svgs, pngs, and the README file. 
 
